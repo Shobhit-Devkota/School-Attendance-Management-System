@@ -116,3 +116,6 @@ school-attendance-management-system/
 
 This project is maintained by Team 5 - School of Computing, University of Plymouth.
 All rights reserved.
+
+
+# Aashutosh Chaudhary
